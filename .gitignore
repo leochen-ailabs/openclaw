@@ -1,0 +1,5 @@
+node_modules/
+.venv/
+.openclaw/
+*.log
+.DS_Store

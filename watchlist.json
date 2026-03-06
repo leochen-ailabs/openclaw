@@ -1,0 +1,37 @@
+{
+  "watchlist": [
+    {
+      "name": "英伟达 (NVIDIA)",
+      "us_ticker": "NVDA",
+      "exchange": "NASDAQ",
+      "sector": "半导体/AI"
+    },
+    {
+      "name": "拼多多 (PDD Holdings)",
+      "us_ticker": "PDD",
+      "exchange": "NASDAQ",
+      "sector": "电商"
+    },
+    {
+      "name": "美团 (Meituan)",
+      "us_ticker": "MPNGY",
+      "hk_ticker": "3690.HK",
+      "exchange": "SEHK",
+      "sector": "本地生活/外卖"
+    },
+    {
+      "name": "腾讯 (Tencent)",
+      "us_ticker": "TCEHY",
+      "hk_ticker": "0700.HK",
+      "exchange": "SEHK",
+      "sector": "互联网/游戏/社交"
+    },
+    {
+      "name": "Figma",
+      "us_ticker": "FIG",
+      "exchange": "NYSE",
+      "sector": "SaaS/设计工具"
+    }
+  ],
+  "updated": "2026-03-06"
+}
